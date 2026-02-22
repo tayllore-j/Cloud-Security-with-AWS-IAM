@@ -9,7 +9,7 @@
 
 ---
 
-![Image](http://learn.nextwork.org/satisfied_vermilion_vibrant_porcupine/uploads/aws-security-iam_1c864649)
+
 
 ---
 
